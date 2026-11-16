@@ -22,7 +22,7 @@
 |---|---|---|---|
 | **[Matchday](https://github.com/rudranil08/Matchday)** | iOS app for football fans: live tables, news, injuries, a player Form score, widgets, Siri, and a daily quiz with a leaderboard. | Swift, SwiftUI, WidgetKit, Firebase | iOS |
 | **[RExchange](https://github.com/rudranil08/RExchange)** | Campus barter app. Gemini turns plain-language posts into listings; a matcher finds direct swaps and 3-person exchange loops. **Hackathon finalist (130+ participants).** | Next.js, TypeScript, Gemini, Zod | [Live](https://r-exchange-mu.vercel.app) |
-| **[Roamly](https://github.com/rudranil08/Roamly)** | iOS travel planner that organises a whole trip in one visual interface. *(in progress)* | Swift, SwiftUI, Supabase | iOS |
+| **[Roamly](https://github.com/rudranil08/Roamly)** | iOS travel logbook that detects the places you visit, verifies them with photo anti-cheat, and scores trips for novelty and sustainability. *(in progress)* | Swift, SwiftUI, SwiftData, MapKit | iOS |
 | **[Grimoire](https://github.com/rudranil08/grimoire)** | *The Tasks That Wouldn't Die*: a Halloween task manager with zero dependencies. | Node, SQLite, vanilla JS | [Live](https://grimoire-pink.vercel.app) |
 | **[Qatar-1b transit](https://github.com/rudranil08/qatar1b_transit_analysis)** | Independent research on NASA TESS data. Caught a BLS period harmonic and measured a 2.24% transit depth (~1.17 Jupiter radii). | Python, Lightkurve, NumPy | Research |
 | **[QR Designer](https://github.com/rudranil08/QR-design-GDC)** | Client-side QR generator with live preview, logo overlay, PNG/SVG export and contrast warnings. | React, TypeScript, Vite | [Live](https://qr-design-gdc.vercel.app) |
